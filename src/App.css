@@ -15,13 +15,15 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 30px;
   color: white;
+  width: 50%;
+}
+.input-field {
+  border: 3px solid #555;
 }
 
 .App-link {
